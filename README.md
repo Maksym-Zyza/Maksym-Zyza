@@ -16,7 +16,7 @@
 
 <img align="left" alt="Redux" width="42px" src="https://avatars.githubusercontent.com/u/13142323?s=200&v=4" />
 
-<img align="left" alt="handlbar" width="42px" src="https://assets.getpop.org/wp-content/plugins/getpop-processors/img/documentation/logos/handlebars.png" />
+<img align="left" alt="handlbar" width="42px" src="https://avatars.githubusercontent.com/u/19378685?s=200&v=4" />
 
 <img align="left" alt="Git" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
