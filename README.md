@@ -22,8 +22,6 @@
 
 <img align="left" alt="Git" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="Githab" width="42px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-
 <img align="left" alt="GitHub" width="42px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Terminal" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -34,7 +32,7 @@
 
 <img align="left" alt="Mongodb" width="42px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" />
 
-<img align="left" alt="Postgresql" width="42px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png
+<img align="left" alt="Postgresql" width="42px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png" />
 
 <img align="left" alt="Postman" width="42px" src="https://sdtimes.com/wp-content/uploads/2018/03/opstman.jpg" />
 
