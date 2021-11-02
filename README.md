@@ -16,6 +16,8 @@
 
 <img align="left" alt="Redux" width="42px" src="https://avatars.githubusercontent.com/u/13142323?s=200&v=4" />
 
+<img align="left" alt="React router" width="42px" src="https://iconape.com/wp-content/files/tp/93000/png/react-router.png" />
+
 <img align="left" alt="handlbar" width="42px" src="https://avatars.githubusercontent.com/u/19378685?s=200&v=4" />
 
 <img align="left" alt="Git" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -28,12 +30,12 @@
 
 <img alt="Visual Studio Code" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img alt="Mongodb" width="42px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />
+<img align="left" alt="Mongodb" width="42px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" />
 
-<img alt="Postgresql" width="42px" src="https://toplogos.ru/images/logo-postgresql.png" />
+<img align="left" alt="Postgresql" width="42px" src="https://heroku-blog-files.s3.amazonaws.com/posts/1474906541-PostgreSQL%2Blogo%2Bsmall.png" />
 
-<img alt="Postman" width="42px" src="https://ww1.prweb.com/prfiles/2017/04/12/14605923/gI_62552_200x200_360%20logo.png" />
+<img align="left" alt="Postman" width="42px" src="https://sdtimes.com/wp-content/uploads/2018/03/opstman.jpg" />
 
-<img alt="Netlify" width="42px" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" />
+<img align="left" alt="Netlify" width="42px" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" />
 
-<img alt="Heroku" width="42px" src="https://platform.sh/images/logos/heroku.webp" />
+<img align="left" alt="Heroku" width="42px" src="https://platform.sh/images/logos/heroku.webp" />
