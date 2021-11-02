@@ -42,7 +42,7 @@
 
 <img align="left" alt="Eslint" width="42px" src="https://cdn.freebiesupply.com/logos/large/2x/eslint-logo-png-transparent.png" />
 
-<img align="left" alt="Figma" width="42px" src="https://pnghut.com/png/4QABSVSpC8/figma-user-interface-design-designer-logo-apps-transparent-png" />
+<img align="left" alt="Figma" width="42px" src="https://w7.pngwing.com/pngs/92/808/png-transparent-figma-user-interface-design-designer-logo-apps-design-rectangle-mirror-user-interface.png" />
 
 <img align="left" alt="Canva" width="42px" src="https://toppng.com/uploads/preview/canva-logo-11609357022tja3pp4dze.png" />
 
