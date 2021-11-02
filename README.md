@@ -40,7 +40,10 @@
 
 <img align="left" alt="Heroku" width="42px" src="https://platform.sh/images/logos/heroku.webp" />
 
+<img align="left" alt="Eslint" width="42px" src="https://cdn.freebiesupply.com/logos/large/2x/eslint-logo-png-transparent.png" />
 
-<img align="left" alt="Eslint" width="42px" src="https://cdn.freebiesupply.com/logos/large/2x/eslint-1-logo-png-transparent.png" />
+<img align="left" alt="Figma" width="42px" src="https://pnghut.com/png/4QABSVSpC8/figma-user-interface-design-designer-logo-apps-transparent-png" />
 
-<img align="left" alt="Heroku" width="42px" src="https://i.pinimg.com/564x/eb/e8/80/ebe880ba05add588e0518ad30d6fe1de.jpg" />
+<img align="left" alt="Canva" width="42px" src="https://toppng.com/uploads/preview/canva-logo-11609357022tja3pp4dze.png" />
+
+<img align="left" alt="Trello" width="42px" src="https://i.pinimg.com/280x280_RS/0f/b8/e6/0fb8e676a1cd0eae9b0f7ea862c40f93.jpg" />
