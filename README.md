@@ -16,7 +16,7 @@
 
 <img align="left" alt="Redux" title="Redux" width="42px" src="https://avatars.githubusercontent.com/u/13142323?s=200&v=4" />
 
-<img align="left" alt="React title="React"router" width="42px" src="https://iconape.com/wp-content/files/tp/93000/png/react-router.png" />
+<img align="left" alt="React router" title="React router" width="42px" src="https://iconape.com/wp-content/files/tp/93000/png/react-router.png" />
 
 <img align="left" alt="Handlebars" title="Handlebars" width="42px" src="https://avatars.githubusercontent.com/u/19378685?s=200&v=4" />
 
@@ -28,7 +28,7 @@
 
 <img align="left" alt="NodeJS" title="NodeJS" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="Visual title="Visual"Studio Code" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Mongodb" title="Mongodb" width="42px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" />
 
