@@ -10,7 +10,7 @@
 
 <img align="left" alt="Sass" title="Sass" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-<img align="left" alt="webpack" title="webpack" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
+<img align="left" alt="webpack" title="Webpack" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
 
 <img align="left" alt="Babel" title="Babel" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
 
@@ -30,9 +30,9 @@
 
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="Mongodb" title="Mongodb" width="42px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" />
+<img align="left" alt="Mongodb" title="MongoDb" width="42px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" />
 
-<img align="left" alt="Postgresql" title="Postgresql" width="42px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png" />
+<img align="left" alt="Postgresql" title="PostgreSql" width="42px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png" />
 
 <img align="left" alt="PostgREST" title="PostgREST" width="42px" src="https://img.stackshare.io/service/2296/postgrest.png" />
 
