@@ -34,6 +34,8 @@
 
 <img align="left" alt="Postgresql" width="42px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png" />
 
+<img align="left" alt="PostgREST" width="42px" src="https://gis-ops.com/wp-content/uploads/2020/01/postgrest-1180x5001-1.png" />
+
 <img align="left" alt="Postman" width="42px" src="https://sdtimes.com/wp-content/uploads/2018/03/opstman.jpg" />
 
 <img align="left" alt="Netlify" width="42px" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" />
