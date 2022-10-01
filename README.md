@@ -40,7 +40,7 @@
 
 <img align="left" alt="Netlify" title="Netlify" width="42px" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" />
 
-<img align="left" alt="Heroku" title="Heroku" width="42px" src="https://platform.sh/images/logos/heroku.webp" />
+<img align="left" alt="Heroku" title="Heroku" width="42px" src="https://www.svgrepo.com/show/331424/heroku.svg" />
 
 <img align="left" alt="Eslint" title="Eslint" width="42px" src="https://cdn.freebiesupply.com/logos/large/2x/eslint-logo-png-transparent.png" />
 
