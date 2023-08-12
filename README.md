@@ -46,6 +46,3 @@
 
 <img align="left" alt="Figma" title="Figma" width="42px" src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png" />
 
-<img align="left" alt="Canva" title="Canva" width="42px" src="https://www.fortbend.lib.tx.us/sites/default/files/2019-01/Canva%20logo.png" />
-
-<img align="left" alt="Trello" title="Trello" width="42px" src="https://i.pinimg.com/280x280_RS/0f/b8/e6/0fb8e676a1cd0eae9b0f7ea862c40f93.jpg" />
