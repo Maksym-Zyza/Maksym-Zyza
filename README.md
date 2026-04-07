@@ -20,7 +20,7 @@
 
 <img align="left" alt="NodeJS" title="NodeJS" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="mongodb" title="mongodb" width="42px" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon.png" />
+<img align="left" alt="MongoDB" title="MongoDB" width="42px" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
 
 <img align="left" alt="Postgresql" title="PostgreSql" width="42px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png" />
 
